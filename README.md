@@ -1,2 +1,7 @@
-# CompSem
-Homeworks on CompSem subject 
+# CompSem. Matherials on CompSem subject 
+## Формула оценки: 3 * эссе + 1 * презентация + 1,5 * дз1 + 1,5 * дз2 + 1,5 * дз3 + 1,5 * дз4
+
+**HW1** - дедлайн 30.01.2024
+**HW2** - дедлайн 17.02.2024
+**Presentation** - 27.02.2024
+**HW3** - дедлайн 05.03.2024
